@@ -1,0 +1,119 @@
+{
+  "datasets": [
+    {
+      "file_name": "customer_churn_20260210_105629.csv",
+      "file_path": "data\\raw\\customer_churn_20260210_105629.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T10:56:29.607572"
+    },
+    {
+      "file_name": "customer_churn_20260210_111254.csv",
+      "file_path": "data\\raw\\customer_churn_20260210_111254.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T11:12:54.780139"
+    },
+    {
+      "file_name": "customer_churn_20260210_111517.csv",
+      "file_path": "data\\raw\\customer_churn_20260210_111517.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T11:15:17.637143"
+    },
+    {
+      "file_name": "customer_churn_20260210_111553.csv",
+      "file_path": "data\\raw\\customer_churn_20260210_111553.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T11:15:53.947540"
+    },
+    {
+      "file_name": "customer_churn_20260210_111939.csv",
+      "file_path": "data\\raw\\customer_churn_20260210_111939.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T11:19:39.371898"
+    },
+    {
+      "file_name": "customer_churn_20260210_112117.csv",
+      "file_path": "data\\raw\\customer_churn_20260210_112117.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T11:21:17.293779"
+    },
+    {
+      "file_name": "customer_churn_20260210_112327.csv",
+      "file_path": "data\\raw\\customer_churn_20260210_112327.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T11:23:27.639040"
+    },
+    {
+      "file_name": "customer_churn_20260210_112425.csv",
+      "file_path": "data\\raw\\customer_churn_20260210_112425.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T11:24:25.185307"
+    },
+    {
+      "file_name": "data_catalog.json",
+      "file_path": "data\\raw\\data_catalog.json",
+      "size_bytes": 3971,
+      "created_date": "2026-02-10T10:56:31.409921"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_105631.json",
+      "file_path": "data\\raw\\huggingface_churn_20260210_105631.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T10:56:31.332523"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_111255.json",
+      "file_path": "data\\raw\\huggingface_churn_20260210_111255.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T11:12:55.702938"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_111518.json",
+      "file_path": "data\\raw\\huggingface_churn_20260210_111518.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T11:15:18.550261"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_111554.json",
+      "file_path": "data\\raw\\huggingface_churn_20260210_111554.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T11:15:54.798057"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_111940.json",
+      "file_path": "data\\raw\\huggingface_churn_20260210_111940.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T11:19:40.178368"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_112118.json",
+      "file_path": "data\\raw\\huggingface_churn_20260210_112118.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T11:21:18.177533"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_112328.json",
+      "file_path": "data\\raw\\huggingface_churn_20260210_112328.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T11:23:28.424007"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_112425.json",
+      "file_path": "data\\raw\\huggingface_churn_20260210_112425.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T11:24:25.935224"
+    },
+    {
+      "file_name": "telco_csv_churn_20260210_111554.csv",
+      "file_path": "data\\raw\\sources\\telco_csv\\churn\\2026\\02\\10\\telco_csv_churn_20260210_111554.csv",
+      "size_bytes": 977501,
+      "created_date": "2026-02-10T11:15:54.835078"
+    },
+    {
+      "file_name": "huggingface_churn_20260210_111554.json",
+      "file_path": "data\\raw\\sources\\huggingface\\churn\\2026\\02\\10\\huggingface_churn_20260210_111554.json",
+      "size_bytes": 82609,
+      "created_date": "2026-02-10T11:15:54.839434"
+    }
+  ],
+  "last_updated": "2026-02-10T11:24:25.949538"
+}
