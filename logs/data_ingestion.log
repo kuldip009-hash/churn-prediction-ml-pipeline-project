@@ -1,0 +1,80 @@
+2026-02-10 10:56:27 - INFO - Starting data ingestion pipeline...
+2026-02-10 10:56:27 - INFO - Starting CSV data ingestion...
+2026-02-10 10:56:29 - INFO - CSV data successfully ingested: data/raw\customer_churn_20260210_105629.csv
+2026-02-10 10:56:29 - INFO - Records: 7043, Columns: 21
+2026-02-10 10:56:29 - INFO - Starting Hugging Face data ingestion...
+2026-02-10 10:56:31 - INFO - Hugging Face data successfully ingested: data/raw\huggingface_churn_20260210_105631.json
+2026-02-10 10:56:31 - INFO - Records: 100
+2026-02-10 10:56:31 - INFO - Data ingestion completed successfully
+2026-02-10 10:56:31 - INFO - CSV file: data/raw\customer_churn_20260210_105629.csv
+2026-02-10 10:56:31 - INFO - Hugging Face file: data/raw\huggingface_churn_20260210_105631.json
+2026-02-10 11:12:53 - INFO - Starting data ingestion pipeline...
+2026-02-10 11:12:53 - INFO - Starting CSV data ingestion...
+2026-02-10 11:12:54 - INFO - CSV data successfully ingested: data/raw\customer_churn_20260210_111254.csv
+2026-02-10 11:12:54 - INFO - Records: 7043, Columns: 21
+2026-02-10 11:12:54 - INFO - Starting Hugging Face data ingestion...
+2026-02-10 11:12:55 - INFO - Hugging Face data successfully ingested: data/raw\huggingface_churn_20260210_111255.json
+2026-02-10 11:12:55 - INFO - Records: 100
+2026-02-10 11:12:55 - INFO - Data ingestion completed successfully
+2026-02-10 11:12:55 - INFO - CSV file: data/raw\customer_churn_20260210_111254.csv
+2026-02-10 11:12:55 - INFO - Hugging Face file: data/raw\huggingface_churn_20260210_111255.json
+2026-02-10 11:15:16 - INFO - Starting data ingestion pipeline...
+2026-02-10 11:15:16 - INFO - Starting CSV data ingestion...
+2026-02-10 11:15:17 - INFO - CSV data successfully ingested: data/raw\customer_churn_20260210_111517.csv
+2026-02-10 11:15:17 - INFO - Records: 7043, Columns: 21
+2026-02-10 11:15:17 - INFO - Starting Hugging Face data ingestion...
+2026-02-10 11:15:18 - INFO - Hugging Face data successfully ingested: data/raw\huggingface_churn_20260210_111518.json
+2026-02-10 11:15:18 - INFO - Records: 100
+2026-02-10 11:15:18 - INFO - Data ingestion completed successfully
+2026-02-10 11:15:18 - INFO - CSV file: data/raw\customer_churn_20260210_111517.csv
+2026-02-10 11:15:18 - INFO - Hugging Face file: data/raw\huggingface_churn_20260210_111518.json
+2026-02-10 11:15:52 - INFO - Starting data ingestion pipeline...
+2026-02-10 11:15:52 - INFO - Starting CSV data ingestion...
+2026-02-10 11:15:53 - INFO - CSV data successfully ingested: data/raw\customer_churn_20260210_111553.csv
+2026-02-10 11:15:53 - INFO - Records: 7043, Columns: 21
+2026-02-10 11:15:53 - INFO - Starting Hugging Face data ingestion...
+2026-02-10 11:15:54 - INFO - Hugging Face data successfully ingested: data/raw\huggingface_churn_20260210_111554.json
+2026-02-10 11:15:54 - INFO - Records: 100
+2026-02-10 11:15:54 - INFO - Data ingestion completed successfully
+2026-02-10 11:15:54 - INFO - CSV file: data/raw\customer_churn_20260210_111553.csv
+2026-02-10 11:15:54 - INFO - Hugging Face file: data/raw\huggingface_churn_20260210_111554.json
+2026-02-10 11:19:38 - INFO - Starting data ingestion pipeline...
+2026-02-10 11:19:38 - INFO - Starting CSV data ingestion...
+2026-02-10 11:19:39 - INFO - CSV data successfully ingested: data/raw\customer_churn_20260210_111939.csv
+2026-02-10 11:19:39 - INFO - Records: 7043, Columns: 21
+2026-02-10 11:19:39 - INFO - Starting Hugging Face data ingestion...
+2026-02-10 11:19:40 - INFO - Hugging Face data successfully ingested: data/raw\huggingface_churn_20260210_111940.json
+2026-02-10 11:19:40 - INFO - Records: 100
+2026-02-10 11:19:40 - INFO - Data ingestion completed successfully
+2026-02-10 11:19:40 - INFO - CSV file: data/raw\customer_churn_20260210_111939.csv
+2026-02-10 11:19:40 - INFO - Hugging Face file: data/raw\huggingface_churn_20260210_111940.json
+2026-02-10 11:21:16 - INFO - Starting data ingestion pipeline...
+2026-02-10 11:21:16 - INFO - Starting CSV data ingestion...
+2026-02-10 11:21:17 - INFO - CSV data successfully ingested: data/raw\customer_churn_20260210_112117.csv
+2026-02-10 11:21:17 - INFO - Records: 7043, Columns: 21
+2026-02-10 11:21:17 - INFO - Starting Hugging Face data ingestion...
+2026-02-10 11:21:18 - INFO - Hugging Face data successfully ingested: data/raw\huggingface_churn_20260210_112118.json
+2026-02-10 11:21:18 - INFO - Records: 100
+2026-02-10 11:21:18 - INFO - Data ingestion completed successfully
+2026-02-10 11:21:18 - INFO - CSV file: data/raw\customer_churn_20260210_112117.csv
+2026-02-10 11:21:18 - INFO - Hugging Face file: data/raw\huggingface_churn_20260210_112118.json
+2026-02-10 11:23:27 - INFO - Starting data ingestion pipeline...
+2026-02-10 11:23:27 - INFO - Starting CSV data ingestion...
+2026-02-10 11:23:27 - INFO - CSV data successfully ingested: data/raw\customer_churn_20260210_112327.csv
+2026-02-10 11:23:27 - INFO - Records: 7043, Columns: 21
+2026-02-10 11:23:27 - INFO - Starting Hugging Face data ingestion...
+2026-02-10 11:23:28 - INFO - Hugging Face data successfully ingested: data/raw\huggingface_churn_20260210_112328.json
+2026-02-10 11:23:28 - INFO - Records: 100
+2026-02-10 11:23:28 - INFO - Data ingestion completed successfully
+2026-02-10 11:23:28 - INFO - CSV file: data/raw\customer_churn_20260210_112327.csv
+2026-02-10 11:23:28 - INFO - Hugging Face file: data/raw\huggingface_churn_20260210_112328.json
+2026-02-10 11:24:24 - INFO - Starting data ingestion pipeline...
+2026-02-10 11:24:24 - INFO - Starting CSV data ingestion...
+2026-02-10 11:24:25 - INFO - CSV data successfully ingested: data/raw\customer_churn_20260210_112425.csv
+2026-02-10 11:24:25 - INFO - Records: 7043, Columns: 21
+2026-02-10 11:24:25 - INFO - Starting Hugging Face data ingestion...
+2026-02-10 11:24:25 - INFO - Hugging Face data successfully ingested: data/raw\huggingface_churn_20260210_112425.json
+2026-02-10 11:24:25 - INFO - Records: 100
+2026-02-10 11:24:25 - INFO - Data ingestion completed successfully
+2026-02-10 11:24:25 - INFO - CSV file: data/raw\customer_churn_20260210_112425.csv
+2026-02-10 11:24:25 - INFO - Hugging Face file: data/raw\huggingface_churn_20260210_112425.json

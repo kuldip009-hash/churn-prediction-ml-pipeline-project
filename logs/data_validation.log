@@ -1,0 +1,49 @@
+2026-02-10 10:56:31 - INFO - Starting data validation pipeline...
+2026-02-10 10:56:31 - INFO - Validating CSV file: data/raw\customer_churn_20260210_105629.csv
+2026-02-10 10:56:31 - INFO - CSV validation completed: 7043 records, 21 columns
+2026-02-10 10:56:31 - INFO - Validating JSON file: data/raw\huggingface_churn_20260210_105631.json
+2026-02-10 10:56:31 - INFO - JSON validation completed: 100 records, 21 columns
+2026-02-10 10:56:32 - INFO - Validation report generated: reports/data_quality_report_20260210_105631.xlsx
+2026-02-10 10:56:32 - INFO - Data validation completed successfully
+2026-02-10 11:12:55 - INFO - Starting data validation pipeline...
+2026-02-10 11:12:55 - INFO - Validating CSV file: data/raw\customer_churn_20260210_111254.csv
+2026-02-10 11:12:55 - INFO - CSV validation completed: 7043 records, 21 columns
+2026-02-10 11:12:55 - INFO - Validating JSON file: data/raw\huggingface_churn_20260210_111255.json
+2026-02-10 11:12:55 - INFO - JSON validation completed: 100 records, 21 columns
+2026-02-10 11:12:56 - INFO - Validation report generated: reports/data_quality_report_20260210_111255.xlsx
+2026-02-10 11:12:56 - INFO - Data validation completed successfully
+2026-02-10 11:16:05 - INFO - Starting data validation pipeline...
+2026-02-10 11:16:05 - INFO - Validating CSV file: data/raw\customer_churn_20260210_111553.csv
+2026-02-10 11:16:05 - INFO - CSV validation completed: 7043 records, 21 columns
+2026-02-10 11:16:05 - INFO - Validating JSON file: data/raw\huggingface_churn_20260210_111554.json
+2026-02-10 11:16:05 - INFO - JSON validation completed: 100 records, 21 columns
+2026-02-10 11:16:05 - INFO - Validation report generated: reports/data_quality_report_20260210_111605.xlsx
+2026-02-10 11:16:05 - INFO - Data validation completed successfully
+2026-02-10 11:19:40 - INFO - Starting data validation pipeline...
+2026-02-10 11:19:40 - INFO - Validating CSV file: data/raw\customer_churn_20260210_111939.csv
+2026-02-10 11:19:40 - INFO - CSV validation completed: 7043 records, 21 columns
+2026-02-10 11:19:40 - INFO - Validating JSON file: data/raw\huggingface_churn_20260210_111940.json
+2026-02-10 11:19:40 - INFO - JSON validation completed: 100 records, 21 columns
+2026-02-10 11:19:40 - INFO - Validation report generated: reports/data_quality_report_20260210_111940.xlsx
+2026-02-10 11:19:40 - INFO - Data validation completed successfully
+2026-02-10 11:21:18 - INFO - Starting data validation pipeline...
+2026-02-10 11:21:18 - INFO - Validating CSV file: data/raw\customer_churn_20260210_112117.csv
+2026-02-10 11:21:18 - INFO - CSV validation completed: 7043 records, 21 columns
+2026-02-10 11:21:18 - INFO - Validating JSON file: data/raw\huggingface_churn_20260210_112118.json
+2026-02-10 11:21:18 - INFO - JSON validation completed: 100 records, 21 columns
+2026-02-10 11:21:18 - INFO - Validation report generated: reports/data_quality_report_20260210_112118.xlsx
+2026-02-10 11:21:18 - INFO - Data validation completed successfully
+2026-02-10 11:23:28 - INFO - Starting data validation pipeline...
+2026-02-10 11:23:28 - INFO - Validating CSV file: data/raw\customer_churn_20260210_112327.csv
+2026-02-10 11:23:28 - INFO - CSV validation completed: 7043 records, 21 columns
+2026-02-10 11:23:28 - INFO - Validating JSON file: data/raw\huggingface_churn_20260210_112328.json
+2026-02-10 11:23:28 - INFO - JSON validation completed: 100 records, 21 columns
+2026-02-10 11:23:28 - INFO - Validation report generated: reports/data_quality_report_20260210_112328.xlsx
+2026-02-10 11:23:28 - INFO - Data validation completed successfully
+2026-02-10 11:24:25 - INFO - Starting data validation pipeline...
+2026-02-10 11:24:25 - INFO - Validating CSV file: data/raw\customer_churn_20260210_112425.csv
+2026-02-10 11:24:25 - INFO - CSV validation completed: 7043 records, 21 columns
+2026-02-10 11:24:25 - INFO - Validating JSON file: data/raw\huggingface_churn_20260210_112425.json
+2026-02-10 11:24:26 - INFO - JSON validation completed: 100 records, 21 columns
+2026-02-10 11:24:26 - INFO - Validation report generated: reports/data_quality_report_20260210_112426.xlsx
+2026-02-10 11:24:26 - INFO - Data validation completed successfully

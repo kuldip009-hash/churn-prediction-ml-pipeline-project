@@ -1,0 +1,84 @@
+2026-02-10 10:56:45 - INFO - Simple feature store initialized at data/feature_store
+2026-02-10 10:56:45 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_105644.csv
+2026-02-10 10:56:45 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_105644.csv
+2026-02-10 10:56:45 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 10:56:45 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 10:56:45 - INFO - Populated feature store with 7043 records
+2026-02-10 10:56:45 - INFO - Saved sample data with 100 records
+2026-02-10 10:56:45 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_105644.csv
+2026-02-10 10:56:45 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_105644.csv
+2026-02-10 10:56:45 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 10:56:45 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 10:56:46 - INFO - Populated feature store with 7043 records
+2026-02-10 10:56:46 - INFO - Saved sample data with 100 records
+2026-02-10 10:57:04 - INFO - Feature store connection closed
+2026-02-10 11:12:58 - INFO - Simple feature store initialized at data/feature_store
+2026-02-10 11:12:58 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_111258.csv
+2026-02-10 11:12:58 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_111258.csv
+2026-02-10 11:12:58 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:12:58 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:12:58 - INFO - Populated feature store with 7043 records
+2026-02-10 11:12:58 - INFO - Saved sample data with 100 records
+2026-02-10 11:12:58 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_111258.csv
+2026-02-10 11:12:58 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_111258.csv
+2026-02-10 11:12:58 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:12:58 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:12:59 - INFO - Populated feature store with 7043 records
+2026-02-10 11:12:59 - INFO - Saved sample data with 100 records
+2026-02-10 11:12:59 - INFO - Feature store connection closed
+2026-02-10 11:19:42 - INFO - Simple feature store initialized at data/feature_store
+2026-02-10 11:19:42 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_111942.csv
+2026-02-10 11:19:42 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_111942.csv
+2026-02-10 11:19:42 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:19:42 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:19:43 - INFO - Populated feature store with 7043 records
+2026-02-10 11:19:43 - INFO - Saved sample data with 100 records
+2026-02-10 11:19:43 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_111942.csv
+2026-02-10 11:19:43 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_111942.csv
+2026-02-10 11:19:43 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:19:43 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:19:43 - INFO - Populated feature store with 7043 records
+2026-02-10 11:19:43 - INFO - Saved sample data with 100 records
+2026-02-10 11:19:43 - INFO - Feature store connection closed
+2026-02-10 11:21:20 - INFO - Simple feature store initialized at data/feature_store
+2026-02-10 11:21:20 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_112120.csv
+2026-02-10 11:21:20 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_112120.csv
+2026-02-10 11:21:20 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:21:20 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:21:20 - INFO - Populated feature store with 7043 records
+2026-02-10 11:21:20 - INFO - Saved sample data with 100 records
+2026-02-10 11:21:20 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_112120.csv
+2026-02-10 11:21:20 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_112120.csv
+2026-02-10 11:21:20 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:21:20 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:21:21 - INFO - Populated feature store with 7043 records
+2026-02-10 11:21:21 - INFO - Saved sample data with 100 records
+2026-02-10 11:21:21 - INFO - Feature store connection closed
+2026-02-10 11:23:31 - INFO - Simple feature store initialized at data/feature_store
+2026-02-10 11:23:31 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_112331.csv
+2026-02-10 11:23:31 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_112331.csv
+2026-02-10 11:23:31 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:23:31 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:23:31 - INFO - Populated feature store with 7043 records
+2026-02-10 11:23:31 - INFO - Saved sample data with 100 records
+2026-02-10 11:23:31 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_112331.csv
+2026-02-10 11:23:31 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_112331.csv
+2026-02-10 11:23:31 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:23:31 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:23:31 - INFO - Populated feature store with 7043 records
+2026-02-10 11:23:31 - INFO - Saved sample data with 100 records
+2026-02-10 11:23:31 - INFO - Feature store connection closed
+2026-02-10 11:24:28 - INFO - Simple feature store initialized at data/feature_store
+2026-02-10 11:24:28 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_112428.csv
+2026-02-10 11:24:28 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_112428.csv
+2026-02-10 11:24:28 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:24:28 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:24:28 - INFO - Populated feature store with 7043 records
+2026-02-10 11:24:28 - INFO - Saved sample data with 100 records
+2026-02-10 11:24:28 - INFO - Found latest training data: data/processed/training_sets\churn_prediction_v1_20260210_112428.csv
+2026-02-10 11:24:28 - INFO - Loading data from: data/processed/training_sets\churn_prediction_v1_20260210_112428.csv
+2026-02-10 11:24:28 - INFO - Loaded data with shape: (7043, 45)
+2026-02-10 11:24:28 - INFO - Populating feature store from DataFrame with 7043 records
+2026-02-10 11:24:28 - INFO - Populated feature store with 7043 records
+2026-02-10 11:24:28 - INFO - Saved sample data with 100 records
+2026-02-10 11:24:28 - INFO - Feature store connection closed

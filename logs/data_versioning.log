@@ -1,0 +1,72 @@
+2026-02-10 10:56:31 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 10:56:31 - INFO - DVC versioning system initialized
+2026-02-10 10:56:31 - WARNING - Could not create git commit for step Data Ingestion: [WinError 2] The system cannot find the file specified
+2026-02-10 10:56:44 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 10:56:44 - INFO - DVC versioning system initialized
+2026-02-10 10:56:44 - WARNING - Could not create git commit for step Data Preparation: [WinError 2] The system cannot find the file specified
+2026-02-10 10:56:45 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 10:56:45 - INFO - DVC versioning system initialized
+2026-02-10 10:56:45 - WARNING - Could not create git commit for step Data Transformation: [WinError 2] The system cannot find the file specified
+2026-02-10 10:56:46 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 10:56:46 - INFO - DVC versioning system initialized
+2026-02-10 10:56:46 - WARNING - Could not create git commit for step Pipeline Complete: [WinError 2] The system cannot find the file specified
+2026-02-10 11:12:55 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:12:55 - INFO - DVC versioning system initialized
+2026-02-10 11:12:55 - WARNING - Could not create git commit for step Data Ingestion: [WinError 2] The system cannot find the file specified
+2026-02-10 11:12:58 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:12:58 - INFO - DVC versioning system initialized
+2026-02-10 11:12:58 - WARNING - Could not create git commit for step Data Preparation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:12:58 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:12:58 - INFO - DVC versioning system initialized
+2026-02-10 11:12:58 - WARNING - Could not create git commit for step Data Transformation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:12:59 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:12:59 - INFO - DVC versioning system initialized
+2026-02-10 11:12:59 - WARNING - Could not create git commit for step Pipeline Complete: [WinError 2] The system cannot find the file specified
+2026-02-10 11:19:40 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:19:40 - INFO - DVC versioning system initialized
+2026-02-10 11:19:40 - WARNING - Could not create git commit for step Data Ingestion: [WinError 2] The system cannot find the file specified
+2026-02-10 11:19:42 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:19:42 - INFO - DVC versioning system initialized
+2026-02-10 11:19:42 - WARNING - Could not create git commit for step Data Preparation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:19:42 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:19:42 - INFO - DVC versioning system initialized
+2026-02-10 11:19:42 - WARNING - Could not create git commit for step Data Transformation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:19:43 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:19:43 - INFO - DVC versioning system initialized
+2026-02-10 11:19:43 - WARNING - Could not create git commit for step Pipeline Complete: [WinError 2] The system cannot find the file specified
+2026-02-10 11:21:18 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:21:18 - INFO - DVC versioning system initialized
+2026-02-10 11:21:18 - WARNING - Could not create git commit for step Data Ingestion: [WinError 2] The system cannot find the file specified
+2026-02-10 11:21:20 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:21:20 - INFO - DVC versioning system initialized
+2026-02-10 11:21:20 - WARNING - Could not create git commit for step Data Preparation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:21:20 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:21:20 - INFO - DVC versioning system initialized
+2026-02-10 11:21:20 - WARNING - Could not create git commit for step Data Transformation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:21:21 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:21:21 - INFO - DVC versioning system initialized
+2026-02-10 11:21:21 - WARNING - Could not create git commit for step Pipeline Complete: [WinError 2] The system cannot find the file specified
+2026-02-10 11:23:28 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:23:28 - INFO - DVC versioning system initialized
+2026-02-10 11:23:28 - WARNING - Could not create git commit for step Data Ingestion: [WinError 2] The system cannot find the file specified
+2026-02-10 11:23:31 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:23:31 - INFO - DVC versioning system initialized
+2026-02-10 11:23:31 - WARNING - Could not create git commit for step Data Preparation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:23:31 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:23:31 - INFO - DVC versioning system initialized
+2026-02-10 11:23:31 - WARNING - Could not create git commit for step Data Transformation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:23:31 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:23:31 - INFO - DVC versioning system initialized
+2026-02-10 11:23:31 - WARNING - Could not create git commit for step Pipeline Complete: [WinError 2] The system cannot find the file specified
+2026-02-10 11:24:25 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:24:25 - INFO - DVC versioning system initialized
+2026-02-10 11:24:25 - WARNING - Could not create git commit for step Data Ingestion: [WinError 2] The system cannot find the file specified
+2026-02-10 11:24:28 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:24:28 - INFO - DVC versioning system initialized
+2026-02-10 11:24:28 - WARNING - Could not create git commit for step Data Preparation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:24:28 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:24:28 - INFO - DVC versioning system initialized
+2026-02-10 11:24:28 - WARNING - Could not create git commit for step Data Transformation: [WinError 2] The system cannot find the file specified
+2026-02-10 11:24:28 - ERROR - DVC setup failed: [WinError 2] The system cannot find the file specified
+2026-02-10 11:24:28 - INFO - DVC versioning system initialized
+2026-02-10 11:24:28 - WARNING - Could not create git commit for step Pipeline Complete: [WinError 2] The system cannot find the file specified

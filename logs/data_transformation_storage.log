@@ -1,0 +1,78 @@
+2026-02-10 10:56:44 - INFO - SQLite database initialized
+2026-02-10 10:56:44 - INFO - Using latest CSV: data/processed\cleaned_data_scaled.csv
+2026-02-10 10:56:44 - INFO - Starting transformation pipeline
+2026-02-10 10:56:44 - INFO - Aggregated features created
+2026-02-10 10:56:44 - INFO - Interaction features created
+2026-02-10 10:56:44 - INFO - Standard scaled: ['tenure', 'MonthlyCharges', 'TotalCharges']
+2026-02-10 10:56:44 - INFO - Min-max scaled: ['SeniorCitizen', 'charges_per_tenure', 'total_to_monthly_ratio', 'avg_monthly_charges', 'total_services', 'service_density', 'tenure_stability', 'tenure_monthly_interaction', 'tenure_total_interaction', 'services_charges_interaction']
+2026-02-10 10:56:44 - INFO - Stored data in customer_features
+2026-02-10 10:56:44 - INFO - Feature metadata updated
+2026-02-10 10:56:45 - INFO - Training set created: churn_prediction_v1_20260210_105644
+2026-02-10 10:56:45 - INFO - Transformation pipeline completed
+2026-02-10 11:12:58 - INFO - SQLite database initialized
+2026-02-10 11:12:58 - INFO - Using latest CSV: data/processed\cleaned_data_scaled.csv
+2026-02-10 11:12:58 - INFO - Starting transformation pipeline
+2026-02-10 11:12:58 - INFO - Aggregated features created
+2026-02-10 11:12:58 - INFO - Interaction features created
+2026-02-10 11:12:58 - INFO - Standard scaled: ['tenure', 'MonthlyCharges', 'TotalCharges']
+2026-02-10 11:12:58 - INFO - Min-max scaled: ['SeniorCitizen', 'charges_per_tenure', 'total_to_monthly_ratio', 'avg_monthly_charges', 'total_services', 'service_density', 'tenure_stability', 'tenure_monthly_interaction', 'tenure_total_interaction', 'services_charges_interaction']
+2026-02-10 11:12:58 - INFO - Stored data in customer_features
+2026-02-10 11:12:58 - INFO - Feature metadata updated
+2026-02-10 11:12:58 - INFO - Training set created: churn_prediction_v1_20260210_111258
+2026-02-10 11:12:58 - INFO - Transformation pipeline completed
+2026-02-10 11:16:50 - INFO - SQLite database initialized
+2026-02-10 11:16:50 - INFO - Using latest CSV: data/processed\cleaned_data_scaled.csv
+2026-02-10 11:16:50 - INFO - Starting transformation pipeline
+2026-02-10 11:16:50 - INFO - Aggregated features created
+2026-02-10 11:16:50 - INFO - Interaction features created
+2026-02-10 11:16:50 - INFO - Standard scaled: ['tenure', 'MonthlyCharges', 'TotalCharges']
+2026-02-10 11:16:50 - INFO - Min-max scaled: ['SeniorCitizen', 'charges_per_tenure', 'total_to_monthly_ratio', 'avg_monthly_charges', 'total_services', 'service_density', 'tenure_stability', 'tenure_monthly_interaction', 'tenure_total_interaction', 'services_charges_interaction']
+2026-02-10 11:16:50 - INFO - Stored data in customer_features
+2026-02-10 11:16:50 - INFO - Feature metadata updated
+2026-02-10 11:16:50 - INFO - Training set created: churn_prediction_v1_20260210_111650
+2026-02-10 11:16:50 - INFO - Transformation pipeline completed
+2026-02-10 11:16:50 - INFO - Database connection closed
+2026-02-10 11:19:42 - INFO - SQLite database initialized
+2026-02-10 11:19:42 - INFO - Using latest CSV: data/processed\cleaned_data_scaled.csv
+2026-02-10 11:19:42 - INFO - Starting transformation pipeline
+2026-02-10 11:19:42 - INFO - Aggregated features created
+2026-02-10 11:19:42 - INFO - Interaction features created
+2026-02-10 11:19:42 - INFO - Standard scaled: ['tenure', 'MonthlyCharges', 'TotalCharges']
+2026-02-10 11:19:42 - INFO - Min-max scaled: ['SeniorCitizen', 'charges_per_tenure', 'total_to_monthly_ratio', 'avg_monthly_charges', 'total_services', 'service_density', 'tenure_stability', 'tenure_monthly_interaction', 'tenure_total_interaction', 'services_charges_interaction']
+2026-02-10 11:19:42 - INFO - Stored data in customer_features
+2026-02-10 11:19:42 - INFO - Feature metadata updated
+2026-02-10 11:19:42 - INFO - Training set created: churn_prediction_v1_20260210_111942
+2026-02-10 11:19:42 - INFO - Transformation pipeline completed
+2026-02-10 11:21:20 - INFO - SQLite database initialized
+2026-02-10 11:21:20 - INFO - Using latest CSV: data/processed\cleaned_data_scaled.csv
+2026-02-10 11:21:20 - INFO - Starting transformation pipeline
+2026-02-10 11:21:20 - INFO - Aggregated features created
+2026-02-10 11:21:20 - INFO - Interaction features created
+2026-02-10 11:21:20 - INFO - Standard scaled: ['tenure', 'MonthlyCharges', 'TotalCharges']
+2026-02-10 11:21:20 - INFO - Min-max scaled: ['SeniorCitizen', 'charges_per_tenure', 'total_to_monthly_ratio', 'avg_monthly_charges', 'total_services', 'service_density', 'tenure_stability', 'tenure_monthly_interaction', 'tenure_total_interaction', 'services_charges_interaction']
+2026-02-10 11:21:20 - INFO - Stored data in customer_features
+2026-02-10 11:21:20 - INFO - Feature metadata updated
+2026-02-10 11:21:20 - INFO - Training set created: churn_prediction_v1_20260210_112120
+2026-02-10 11:21:20 - INFO - Transformation pipeline completed
+2026-02-10 11:23:31 - INFO - SQLite database initialized
+2026-02-10 11:23:31 - INFO - Using latest CSV: data/processed\cleaned_data_scaled.csv
+2026-02-10 11:23:31 - INFO - Starting transformation pipeline
+2026-02-10 11:23:31 - INFO - Aggregated features created
+2026-02-10 11:23:31 - INFO - Interaction features created
+2026-02-10 11:23:31 - INFO - Standard scaled: ['tenure', 'MonthlyCharges', 'TotalCharges']
+2026-02-10 11:23:31 - INFO - Min-max scaled: ['SeniorCitizen', 'charges_per_tenure', 'total_to_monthly_ratio', 'avg_monthly_charges', 'total_services', 'service_density', 'tenure_stability', 'tenure_monthly_interaction', 'tenure_total_interaction', 'services_charges_interaction']
+2026-02-10 11:23:31 - INFO - Stored data in customer_features
+2026-02-10 11:23:31 - INFO - Feature metadata updated
+2026-02-10 11:23:31 - INFO - Training set created: churn_prediction_v1_20260210_112331
+2026-02-10 11:23:31 - INFO - Transformation pipeline completed
+2026-02-10 11:24:28 - INFO - SQLite database initialized
+2026-02-10 11:24:28 - INFO - Using latest CSV: data/processed\cleaned_data_scaled.csv
+2026-02-10 11:24:28 - INFO - Starting transformation pipeline
+2026-02-10 11:24:28 - INFO - Aggregated features created
+2026-02-10 11:24:28 - INFO - Interaction features created
+2026-02-10 11:24:28 - INFO - Standard scaled: ['tenure', 'MonthlyCharges', 'TotalCharges']
+2026-02-10 11:24:28 - INFO - Min-max scaled: ['SeniorCitizen', 'charges_per_tenure', 'total_to_monthly_ratio', 'avg_monthly_charges', 'total_services', 'service_density', 'tenure_stability', 'tenure_monthly_interaction', 'tenure_total_interaction', 'services_charges_interaction']
+2026-02-10 11:24:28 - INFO - Stored data in customer_features
+2026-02-10 11:24:28 - INFO - Feature metadata updated
+2026-02-10 11:24:28 - INFO - Training set created: churn_prediction_v1_20260210_112428
+2026-02-10 11:24:28 - INFO - Transformation pipeline completed

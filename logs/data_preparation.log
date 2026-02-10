@@ -1,0 +1,83 @@
+2026-02-10 10:56:32 - INFO - Auto-detected input file: data/raw\customer_churn_20260210_105629.csv
+2026-02-10 10:56:32 - INFO - Starting data preparation pipeline
+2026-02-10 10:56:32 - INFO - Loaded data: (7043, 21)
+2026-02-10 10:56:37 - INFO - EDA plots saved to data/eda/raw
+2026-02-10 10:56:37 - INFO - Filled TotalCharges with median: 1397.475
+2026-02-10 10:56:38 - INFO - One-hot encoded 15 columns
+2026-02-10 10:56:38 - INFO - Encoded 'Churn' to 0/1
+2026-02-10 10:56:38 - INFO - Created derived features
+2026-02-10 10:56:38 - INFO - Scaled 8 numerical features
+2026-02-10 10:56:43 - INFO - EDA plots saved to data/eda/cleaned
+2026-02-10 10:56:43 - INFO - Cleaned data saved to data/processed/cleaned_data.csv
+2026-02-10 10:56:44 - INFO - Scaled data saved to data/processed/cleaned_data_scaled.csv
+2026-02-10 11:12:56 - INFO - Auto-detected input file: data/raw\customer_churn_20260210_111254.csv
+2026-02-10 11:12:56 - INFO - Starting data preparation pipeline
+2026-02-10 11:12:56 - INFO - Loaded data: (7043, 21)
+2026-02-10 11:12:57 - INFO - EDA plots saved to data/eda/raw
+2026-02-10 11:12:57 - INFO - Filled TotalCharges with median: 1397.475
+2026-02-10 11:12:57 - INFO - One-hot encoded 15 columns
+2026-02-10 11:12:57 - INFO - Encoded 'Churn' to 0/1
+2026-02-10 11:12:57 - INFO - Created derived features
+2026-02-10 11:12:57 - INFO - Scaled 8 numerical features
+2026-02-10 11:12:58 - INFO - EDA plots saved to data/eda/cleaned
+2026-02-10 11:12:58 - INFO - Cleaned data saved to data/processed/cleaned_data.csv
+2026-02-10 11:12:58 - INFO - Scaled data saved to data/processed/cleaned_data_scaled.csv
+2026-02-10 11:16:32 - INFO - Starting data preparation pipeline
+2026-02-10 11:16:32 - INFO - Loaded data: (7043, 21)
+2026-02-10 11:16:33 - INFO - EDA plots saved to data/eda/raw
+2026-02-10 11:16:33 - INFO - Filled TotalCharges with median: 1397.475
+2026-02-10 11:16:33 - INFO - One-hot encoded 15 columns
+2026-02-10 11:16:33 - INFO - Encoded 'Churn' to 0/1
+2026-02-10 11:16:33 - INFO - Created derived features
+2026-02-10 11:16:33 - INFO - Scaled 8 numerical features
+2026-02-10 11:16:34 - INFO - EDA plots saved to data/eda/cleaned
+2026-02-10 11:16:34 - INFO - Cleaned data saved to data/processed/cleaned_data.csv
+2026-02-10 11:16:34 - INFO - Scaled data saved to data/processed/cleaned_data_scaled.csv
+2026-02-10 11:19:40 - INFO - Auto-detected input file: data/raw\customer_churn_20260210_111939.csv
+2026-02-10 11:19:40 - INFO - Starting data preparation pipeline
+2026-02-10 11:19:40 - INFO - Loaded data: (7043, 21)
+2026-02-10 11:19:41 - INFO - EDA plots saved to data/eda/raw
+2026-02-10 11:19:41 - INFO - Filled TotalCharges with median: 1397.475
+2026-02-10 11:19:41 - INFO - One-hot encoded 15 columns
+2026-02-10 11:19:41 - INFO - Encoded 'Churn' to 0/1
+2026-02-10 11:19:41 - INFO - Created derived features
+2026-02-10 11:19:41 - INFO - Scaled 8 numerical features
+2026-02-10 11:19:42 - INFO - EDA plots saved to data/eda/cleaned
+2026-02-10 11:19:42 - INFO - Cleaned data saved to data/processed/cleaned_data.csv
+2026-02-10 11:19:42 - INFO - Scaled data saved to data/processed/cleaned_data_scaled.csv
+2026-02-10 11:21:18 - INFO - Auto-detected input file: data/raw\customer_churn_20260210_112117.csv
+2026-02-10 11:21:18 - INFO - Starting data preparation pipeline
+2026-02-10 11:21:18 - INFO - Loaded data: (7043, 21)
+2026-02-10 11:21:19 - INFO - EDA plots saved to data/eda/raw
+2026-02-10 11:21:19 - INFO - Filled TotalCharges with median: 1397.475
+2026-02-10 11:21:19 - INFO - One-hot encoded 15 columns
+2026-02-10 11:21:19 - INFO - Encoded 'Churn' to 0/1
+2026-02-10 11:21:19 - INFO - Created derived features
+2026-02-10 11:21:19 - INFO - Scaled 8 numerical features
+2026-02-10 11:21:20 - INFO - EDA plots saved to data/eda/cleaned
+2026-02-10 11:21:20 - INFO - Cleaned data saved to data/processed/cleaned_data.csv
+2026-02-10 11:21:20 - INFO - Scaled data saved to data/processed/cleaned_data_scaled.csv
+2026-02-10 11:23:28 - INFO - Auto-detected input file: data/raw\customer_churn_20260210_112327.csv
+2026-02-10 11:23:28 - INFO - Starting data preparation pipeline
+2026-02-10 11:23:28 - INFO - Loaded data: (7043, 21)
+2026-02-10 11:23:29 - INFO - EDA plots saved to data/eda/raw
+2026-02-10 11:23:29 - INFO - Filled TotalCharges with median: 1397.475
+2026-02-10 11:23:29 - INFO - One-hot encoded 15 columns
+2026-02-10 11:23:29 - INFO - Encoded 'Churn' to 0/1
+2026-02-10 11:23:29 - INFO - Created derived features
+2026-02-10 11:23:29 - INFO - Scaled 8 numerical features
+2026-02-10 11:23:31 - INFO - EDA plots saved to data/eda/cleaned
+2026-02-10 11:23:31 - INFO - Cleaned data saved to data/processed/cleaned_data.csv
+2026-02-10 11:23:31 - INFO - Scaled data saved to data/processed/cleaned_data_scaled.csv
+2026-02-10 11:24:26 - INFO - Auto-detected input file: data/raw\customer_churn_20260210_112425.csv
+2026-02-10 11:24:26 - INFO - Starting data preparation pipeline
+2026-02-10 11:24:26 - INFO - Loaded data: (7043, 21)
+2026-02-10 11:24:27 - INFO - EDA plots saved to data/eda/raw
+2026-02-10 11:24:27 - INFO - Filled TotalCharges with median: 1397.475
+2026-02-10 11:24:27 - INFO - One-hot encoded 15 columns
+2026-02-10 11:24:27 - INFO - Encoded 'Churn' to 0/1
+2026-02-10 11:24:27 - INFO - Created derived features
+2026-02-10 11:24:27 - INFO - Scaled 8 numerical features
+2026-02-10 11:24:28 - INFO - EDA plots saved to data/eda/cleaned
+2026-02-10 11:24:28 - INFO - Cleaned data saved to data/processed/cleaned_data.csv
+2026-02-10 11:24:28 - INFO - Scaled data saved to data/processed/cleaned_data_scaled.csv

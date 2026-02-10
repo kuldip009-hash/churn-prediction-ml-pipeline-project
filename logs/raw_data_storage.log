@@ -1,0 +1,31 @@
+2026-02-10 10:55:00 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 10:56:15 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 10:56:31 - INFO - Storage initialized: type=local, base_path=data\raw
+2026-02-10 10:56:31 - INFO - Data catalog created: data\raw\data_catalog.json
+2026-02-10 11:00:29 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:03:07 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:04:06 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:11:11 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:11:36 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:12:49 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:12:55 - INFO - Storage initialized: type=local, base_path=data\raw
+2026-02-10 11:12:55 - INFO - Data catalog created: data\raw\data_catalog.json
+2026-02-10 11:15:52 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:15:52 - INFO - Storage initialized: type=local, base_path=data\raw
+2026-02-10 11:15:54 - INFO - File stored locally: data\raw\sources\telco_csv\churn\2026\02\10\telco_csv_churn_20260210_111554.csv
+2026-02-10 11:15:54 - INFO - Stored CSV file from ingestion: data\raw\sources\telco_csv\churn\2026\02\10\telco_csv_churn_20260210_111554.csv
+2026-02-10 11:15:54 - INFO - File stored locally: data\raw\sources\huggingface\churn\2026\02\10\huggingface_churn_20260210_111554.json
+2026-02-10 11:15:54 - INFO - Stored Hugging Face file from ingestion: data\raw\sources\huggingface\churn\2026\02\10\huggingface_churn_20260210_111554.json
+2026-02-10 11:15:54 - INFO - Data catalog created: data\raw\data_catalog.json
+2026-02-10 11:19:36 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:19:40 - INFO - Storage initialized: type=local, base_path=data\raw
+2026-02-10 11:19:40 - INFO - Data catalog created: data\raw\data_catalog.json
+2026-02-10 11:21:15 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:21:18 - INFO - Storage initialized: type=local, base_path=data\raw
+2026-02-10 11:21:18 - INFO - Data catalog created: data\raw\data_catalog.json
+2026-02-10 11:23:25 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:23:28 - INFO - Storage initialized: type=local, base_path=data\raw
+2026-02-10 11:23:28 - INFO - Data catalog created: data\raw\data_catalog.json
+2026-02-10 11:24:22 - WARNING - boto3 not available. Cloud storage will be disabled.
+2026-02-10 11:24:25 - INFO - Storage initialized: type=local, base_path=data\raw
+2026-02-10 11:24:25 - INFO - Data catalog created: data\raw\data_catalog.json
